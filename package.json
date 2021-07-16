@@ -1,0 +1,24 @@
+{
+  "name": "auth-postgress",
+  "version": "1.0.0",
+  "description": "here we will work o an express app that will have authentication and authorization\r an a postgress dadabase",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh312/auth-postgress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh312/auth-postgress/issues"
+  },
+  "homepage": "https://github.com/yogesh312/auth-postgress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
