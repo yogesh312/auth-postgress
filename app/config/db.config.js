@@ -1,13 +1,5 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "postgres",
-    PASSWORD: "1234",
-    DB: "testdb",
-    dialect: "postgres",
-    pool: {
-      max: 5,
-      min: 0,
-      acquire: 30000,
-      idle: 10000
-    }
-  };
+  HOST: "localhost",
+  PORT: 27017,
+  DB: "bezkoder_db"
+};
